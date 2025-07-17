@@ -67,20 +67,20 @@
 <!-- What I am studying now -->
 <div class="studies">    
     <div class="studies-wrapper">
-        <h1 class="study-title-principal">Estudos / Interesses</h1>
+        <h1 class="study-title-principal">Campos de Interesse</h1>
 
         <div class="study-block">
             <div class="studies-row">
                 <div class="studies-col" id="studies-col1">
                     <div class="study-heading">
-                        <div class="study-icon"></div>
+                        <div class="study-icon"><img src="ai.png" alt="ai"></div>
                         <h2 class="study-title">INTELIGÊNGIA ARTIFICIAL</h2>
                     </div>
-                    <div class="study-text">Tenho experiência na exploração de técnicas de Machine Learning, incluindo aprendizado supervisionado, não supervisionado e aprendizado por reforço. Já realizei projetos diretamente com automatizações utilizando LLMs. Além disso, desenvolvi e participei de trabalhos voltados para clusterização de dados, para identificar padrões e segmentações relevantes em conjuntos de dados reais.</div>
+                    <div class="study-text">Tenho conhecimento na exploração de técnicas de Machine Learning, incluindo aprendizado supervisionado, não supervisionado e aprendizado por reforço. Já realizei projetos diretamente com automatizações utilizando LLMs. Além disso, desenvolvi e participei de trabalhos voltados para clusterização de dados, para identificar padrões e segmentações relevantes em conjuntos de dados reais.</div>
                 </div>
                 <div class="studies-col" id="studies-col2">
                     <div class="study-heading">
-                        <div class="study-icon"></div>
+                        <div class="study-icon"><img src="math.png" alt="math"></div>
                         <h2 class="study-title">MATEMÁTICA</h2>
                     </div>
                     <div class="study-text">Tive a oportunidade de aprofundar conhecimentos em diversas e fundamentais áreas da matemática. Isso incluiu a realização de trabalhos envolvendo Modelos Lineares Generalizados na área de Estatística, a aplicação prática de Álgebra Linear em problemas reais, além do uso integrado de conceitos de probabilidade e estatística, tanto na abordagem Bayesiana quanto na Frequentista, para a resolução de desafios complexos e desenvolvimento de modelos matemáticos robustos.</div>
@@ -90,14 +90,14 @@
             <div class="studies-row">
                 <div class="studies-col" id="studies-col3">
                     <div class="study-heading">
-                        <div class="study-icon"></div>
+                        <div class="study-icon"><img src="analysis.png" alt="analysis"></div>
                         <h2 class="study-title">ANÁLISES EXPLORATÓRIAS</h2>
                     </div>
                     <div class="study-text">Análise e limpeza de dados, bem como a geração de insights por meio de técnicas estatísticas, são pilares centrais do meu conjunto de habilidades. Além disso, tenho me dedicado a transformar dados complexos em narrativas visuais claras e acessíveis por meio de visualizações eficazes, com o objetivo de facilitar a compreensão para públicos diversos, independentemente do nível técnico.</div>
                 </div>
                 <div class="studies-col" id="studies-col4">
                     <div class="study-heading">
-                        <div class="study-icon"></div>
+                        <div class="study-icon"><img src="gears.png" alt="gears"></div>
                         <h2 class="study-title">ARQUITETURA DE PROJETOS</h2>
                     </div>
                     <div class="study-text">Tive a oportunidade de aplicar boas práticas de desenvolvimento de software, com foco em otimização de algoritmos, escalabilidade de aplicações e escrita de código limpo e eficiente. Além disso, adquiri conhecimentos em programação em nuvem em nível básico e em modelagem de banco de dados, compreendendo a importância de estruturas bem definidas para garantir desempenho e integridade dos sistemas.</div>
