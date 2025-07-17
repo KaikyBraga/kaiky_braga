@@ -1,3 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@400&display=swap');
+
 .studies {
-    background-color: rgb(16, 16, 173);
+    background: linear-gradient(180deg, #5c91c6, #652279);
+    color: white;
+    font-family: Arial, sans-serif;
 }
+
+.studies-wrapper {
+    margin: 0 auto; 
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.study-title {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.studies-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.studies-col {
+    justify-content: center; 
+    width: 45%;
+}
+
+.study-icon {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.study-text {
+    text-align: justify;
+    font-size: 1rem;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+
+.study-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.study-icon {
+    font-size: 2rem;
+}
+
+.study-title-principal {
+    font-size: 2.5rem;
+    color: rgb(255, 255, 255);
+    margin-bottom: 2%;
+    border-bottom: 7px solid #ffffff; 
+}
+
+.study-title {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.study-heading {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: flex-start; 
+}
+
+#studies-col1 {
+    border-bottom: 1px solid #c1c1c1; 
+    border-right: 1px solid #c1c1c1;  
+    padding: 0px; 
+}
+
+#studies-col2 {
+    border-bottom: 1px solid #c1c1c1; 
+    border-left: 1px solid #c1c1c1;  
+    padding: 0px; 
+}
+
+#studies-col3 {
+    border-top: 1px solid #c1c1c1; 
+    border-right: 1px solid #c1c1c1;  
+    padding: 0px; 
+}
+
+#studies-col4 {
+    border-top: 1px solid #c1c1c1; 
+    border-left: 1px solid #c1c1c1;  
+    padding: 0px; 
+}
+

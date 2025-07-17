@@ -1,3 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;600&display=swap');
+
 .presentation {
-    background-color: rgb(224, 224, 224);
+    background: linear-gradient(180deg, #ffffff, #5c91c6);
+    align-items: center;
+    font-size: large;
+}
+
+.left-presentation, .right-presentation {
+    flex: 1;                    
+    padding: 5%;
+}
+
+.left-presentation hr {
+    border: none;
+    height: 3px;
+    background-color: #3d0000; 
+    width: 100%;
+}
+
+.text-presentation hr {
+    border: none;
+    height: 4px;
+    background: linear-gradient(90deg, #1a2a6c, #cbc4c4);
+    width: 100px;
+    margin: 20px 0;
+    border-radius: 2px;
+}
+
+.text-presentation {
+    margin-bottom: 20%;
+}
+
+.text-presentation p {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 30px;
+}
+
+.text-presentation b {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.text-presentation h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #1a2a6c;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.social-links {
+    gap: 40px;
+}
+
+.social-links b {
+    color: #0a1748;
+}
+
+.social-images {
+    margin-left: 5%;
+}
+
+.social-images img {
+    margin-top: 6%;
+    width: 8%;   
+    height: auto;  
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+
+.social-images img:hover {
+    width: 9%;  
+}
+
+.email-link:hover {
+    color: #1a2a6c;
+    text-decoration: underline;
+}
+
+.right-presentation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-presentation img {
+    width: 400px;           
+    height: 400px;          
+    object-fit: cover;      
+    border-radius: 50%;     
+    border: 2px solid #272727; 
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1); 
+}
+
+.profile-container {
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+
+.profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 8px solid white;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 2;
+}
+
+.profile-border {
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    right: -15px;
+    bottom: -15px;
+    background: linear-gradient(135deg, #1a2a6c, #1fb2a3);
+    border-radius: 50%;
+    z-index: 1;
+    animation: rotate 15s linear infinite;
 }
