@@ -110,6 +110,30 @@
 
 <!-- Programming Languages -->
 <div class="languages">
+    <div class="languages-title"><h1>EXPERIÊNCIA</h1></div>
+    <div class="languages-text"><p>Eu tenho me desenvolvendo na área de Data Science desde 2023, e aqui estão presentes algumas ferramentes que pude ter contato durante meu desenvolvimento profissional.</p></div>
+    <div class="languages-imgs">
+        <div class="languages-line">
+            <img src="./languages/python.png" alt="">
+            <img src="./languages/cpp.png" alt="">
+            <img src="./languages/r.png" alt="">
+            <img src="./languages/scilab.png" alt="">
+        </div>
+
+        <div class="languages-line">
+            <img src="./languages/html.png" alt="">
+            <img src="./languages/css.png" alt="">
+            <img src="./languages/js.png" alt="">
+            <img src="./languages/latex.png" alt="">
+        </div>
+
+        <div class="languages-line">
+            <img src="languages/git.png" alt="">
+            <img src="languages/github.png" alt="">
+            <img src="languages/excel.png" alt="">
+            <img src="languages/linux.png" alt="">
+        </div>
+    </div>
 </div>
 
 <!-- Courses -->
