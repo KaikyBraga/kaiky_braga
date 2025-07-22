@@ -35,7 +35,7 @@
             <p><b>Um graduando em Ciência de Dados e Inteligência Artificial pela Fundação Getulio Vargas (FGV)</b>, com grande interesse em aprendizado de máquina, estatística (frequentista e bayesiana) e análise de dados. Estou constantemente em busca de novos aprendizados e desafios que ampliem meu conhecimento técnico e prático.</p>
         </div>
 
-        <div class="social-links">
+        <div class="social-project-link">
             <!-- E-mail -->
             <b>Contato:</b>
             <a href="mailto:kaiky.braga06221607@gmail.com" class="email-link">
@@ -223,4 +223,80 @@
 
 <!-- Projects -->
 <div class="projects">
+    <div class="section-header">
+        <h1>PROJETOS DESTACADOS</h1>
+        <p>Uma seleção dos meus trabalhos acadêmicos e projetos pessoais desenvolvidos nos últimos tempos.</p>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">TCC – Ensino Médio na ETEC</div>
+        <div class="project-desc">Projeto de conclusão do curso técnico em Administração. O trabalho explorou o papel das teorias administrativas na construção de empresas social e ambientalmente responsáveis.</div>
+        <div class="project-link">📽️ <a href="#">Link para o pitch</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Field Project – FGV EMAp</div>
+        <div class="project-desc">Projeto aplicado de Ciência de Dados em parceria com a empresa Rocket.Chat. O objetivo foi identificar padrões de comportamento entre usuários de um tipo específico de plano da plataforma.</div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Storytelling com Processos Gaussianos</div>
+        <div class="project-desc">Visualização interativa em JavaScript com D3.js para introduzir Processos Gaussianos, combinando machine learning e storytelling.</div>
+        <div class="project-link">🌐 <a href="#">Site</a> 🔗 <a href="#">GitHub</a></div>
+    </div>
 </div>
+    
+<div class="projects">
+    <div class="project-card">
+        <div class="project-title">Linha do Tempo Filosófica</div>
+        <div class="project-desc">Timeline interativa representando correntes filosóficas, usando D3.js e Svelte.</div>
+        <div class="project-link">🌐 <a href="#">Site</a>🔗  <a href="#">GitHub</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Modelagem com GLMs – Análise Estatística</div>
+        <div class="project-desc">Modelos de Poisson e Binomial Negativa aplicados a dados de contagem com excesso de zeros, em R.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Relatório</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Projeto de Álgebra Linear com Imagens</div>
+        <div class="project-desc">Transformações matemáticas aplicadas a imagens com base em conceitos de Álgebra Linear e Visão Computacional.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 🌐 <a href="#">Site</a></div>
+    </div>
+</div>
+
+<div class="projects">
+    <div class="project-card">
+        <div class="project-title">Visualização Sociopolítica com Bokeh</div>
+        <div class="project-desc">Visualizações interativas com Bokeh e Python para dados sociopolíticos.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 🌐 <a href="#">Site</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Projeto A2 – Desenvolvimento de Jogo com Pygame</div>
+        <div class="project-desc">Jogo desenvolvido com Pygame em Python, focando em Programação Orientada a Objetos.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Projeto GPS – Algoritmos em Grafos (PAA)</div>
+        <div class="project-desc">Sistema de rotas com algoritmos de grafos em C++, com foco em otimização e complexidade computacional.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Documentação</a></div>
+    </div>
+</div>
+
+<div class="projects">
+    <div class="project-card">
+        <div class="project-title">Projeto de Threads – Pipeline Paralelo de Dados</div>
+        <div class="project-desc">Simulação de um banco de dados com pipeline paralela em C++ e Python para tratamento de dados.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Documentação</a></div>
+    </div>
+
+    <div class="project-card">
+        <div class="project-title">Marvel vs DC – Visualização Criativa de Dados</div>
+        <div class="project-desc">Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.</div>
+        <div class="project-link">🔗 <a href="#">GitHub</a> 🎨 <a href="#">Peça gráfica</a></div>
+    </div>
+</div>
+

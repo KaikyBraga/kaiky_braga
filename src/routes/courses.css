@@ -1,16 +1,36 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #007bff;
     margin: 0;
     color: #333;
 }
 
-.courses, .complementaries {
-    max-width: 1200px;
-    margin: 0 auto 60px auto;
+.courses {
+    background-image: url('background_studies.jpg');
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
 }
 
+.complementaries {
+    position: relative;
+    overflow: hidden; 
+}
+
+.complementaries::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image: url('background_studies.jpg');
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;
+    transform: scaleY(-1); 
+    z-index: -1; 
+}
+
+
 .courses-block {
+    width: 70%;
     background-color: #dfeeff;
     border-radius: 16px;
     padding: 24px;
