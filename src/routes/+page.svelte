@@ -5,7 +5,6 @@
     import './studies.css';
     import './languages.css';
     import './courses.css';
-    import './complementaries.css';
     import './projects.css';
     
 </script>
@@ -138,11 +137,89 @@
 
 <!-- Courses -->
 <div class="courses">    
+    <div class="courses-block">
+        <div class="courses-title"><h1>Formação Acadêmica</h1></div>
+
+        <div class="couses-container">
+            <div class="courses-col1">
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/etec.png" alt=""></div>
+                    <p><b>ETEC:</b> Ensino Técnico Integrado ao Ensino Médio em Administração na ETEC Mário Antônio Verza (2020–2022).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/fgv.png" alt=""></div>
+                    <p><b>FGV:</b> Graduação em Ciência de Dados e Inteligência Artificial pela Fundação Getulio Vargas (2023–2026).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/pic.jpg" alt=""></div>
+                    <p><b>PIC OBMEP:</b> Programa de Iniciação Científica Júnior em Matemática promovido pela OBMEP (2018–2022).</p>
+                </div>
+            </div>
+
+            <div class="courses-col2">
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/picme.jpg" alt=""></div>
+                    <p><b>PICME:</b> Programa de Iniciação Científica e Mestrado patrocinado pelo CNPq (2023–2025).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/poti.png" alt=""></div>
+                    <p><b>POTI:</b> Polo Olímpico de Treinamento Intensivo em Presidente Prudente – SP, com foco em olimpíadas de Matemática (2021).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/fgv.png" alt=""></div>
+                    <p><b>Curso de Verão FGV:</b> Participação nos cursos de Estruturas Algébricas e Sistemas de Recomendação, oferecidos pela FGV em janeiro de 2023 e janeiro de 2024.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!-- Complementaries informations -->
 <div class="complementaries">
+    <div class="courses-block">
+        <div class="courses-title"><h1>Informações Complementares</h1></div>
+
+        <div class="couses-container">
+            <div class="courses-col1">
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/obmep.png" alt=""></div>
+                    <p><b>OBMEP:</b> Penta medalhista na Olimpíada Brasileira de Matemática das Escolas Públicas.</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/stolimpiadas.png" alt=""></div>
+                    <p><b>Stolimpíadas:</b> Medalhista de prata na olimpíada de Matemática organizada pela AOBM e pela Stone.</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/cdmc.png" alt=""></div>
+                    <p><b>FGV CDMC:</b> Bolsista do FGV CDMC, iniciativa voltada à formação de excelência para alunos premiados em olimpíadas científicas. O programa oferece bolsa integral de graduação e auxílio financeiro para despesas pessoais.</p>
+                </div>
+            </div>
+
+            <div class="courses-col2">
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/obmep.png" alt=""></div>
+                    <p><b>EHH SP:</b> Participação no Encontro do Hotel de Hilbert, evento nacional para os melhores alunos da OBMEP (2019).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/obmep.png" alt=""></div>
+                    <p><b>EHH RN:</b> Participação no Encontro do Hotel de Hilbert, edição nacional para os destaques da OBMEP (2023).</p>
+                </div>
+
+                <div class="courses-item">
+                    <div class="couses-img"><img src="./courses/amplia.jpg" alt=""></div>
+                    <p><b>Amplia FGV:</b> Membro da equipe de Recursos Humanos do projeto Amplia FGV — cursinho pré-vestibular voltado a alunos de baixa renda (2024–2025).</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
 
 <!-- Projects -->
 <div class="projects">
