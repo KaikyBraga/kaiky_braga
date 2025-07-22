@@ -66,7 +66,7 @@
 <!-- What I am studying now -->
 <div class="studies">    
     <div class="studies-wrapper">
-        <h1 class="study-title-principal">Campos de Interesse</h1>
+        <h1 class="study-title-principal">CAMPOS DE INTERESSE</h1>
 
         <div class="study-block">
             <div class="studies-row">
