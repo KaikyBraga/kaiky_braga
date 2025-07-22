@@ -123,7 +123,7 @@
             <img src="./languages/html.png" alt="">
             <img src="./languages/css.png" alt="">
             <img src="./languages/js.png" alt="">
-            <img src="./languages/latex.png" alt="">
+            <img src="./languages/postgresql.png" alt="">
         </div>
 
         <div class="languages-line">
