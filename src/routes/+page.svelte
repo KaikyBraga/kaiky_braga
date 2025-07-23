@@ -222,81 +222,299 @@
 
 
 <!-- Projects -->
+
 <div class="projects">
-    <div class="section-header">
-        <h1>PROJETOS DESTACADOS</h1>
-        <p>Uma seleção dos meus trabalhos acadêmicos e projetos pessoais desenvolvidos nos últimos tempos.</p>
-    </div>
-
-    <div class="project-card">
-        <div class="project-title">TCC – Ensino Médio na ETEC</div>
-        <div class="project-desc">Projeto de conclusão do curso técnico em Administração. O trabalho explorou o papel das teorias administrativas na construção de empresas social e ambientalmente responsáveis.</div>
-        <div class="project-link">📽️ <a href="#">Link para o pitch</a></div>
-    </div>
-
-    <div class="project-card">
-        <div class="project-title">Field Project – FGV EMAp</div>
-        <div class="project-desc">Projeto aplicado de Ciência de Dados em parceria com a empresa Rocket.Chat. O objetivo foi identificar padrões de comportamento entre usuários de um tipo específico de plano da plataforma.</div>
-    </div>
-
-    <div class="project-card">
-        <div class="project-title">Storytelling com Processos Gaussianos</div>
-        <div class="project-desc">Visualização interativa em JavaScript com D3.js para introduzir Processos Gaussianos, combinando machine learning e storytelling.</div>
-        <div class="project-link">🌐 <a href="#">Site</a> 🔗 <a href="#">GitHub</a></div>
-    </div>
-</div>
+    <!-- <div class="portfolio-logo">
+        <i class="fas fa-folder-open"></i>
+        Portfólio
+    </div> -->
     
-<div class="projects">
-    <div class="project-card">
-        <div class="project-title">Linha do Tempo Filosófica</div>
-        <div class="project-desc">Timeline interativa representando correntes filosóficas, usando D3.js e Svelte.</div>
-        <div class="project-link">🌐 <a href="#">Site</a>🔗  <a href="#">GitHub</a></div>
-    </div>
+    <div class="projects-container">
+        <div class="header">
+            <h1>PROJETOS DESTACADOS</h1>
+            <p>Uma seleção dos meus trabalhos acadêmicos e projetos pessoais desenvolvidos nos últimos tempos.</p>
+        </div>
 
-    <div class="project-card">
-        <div class="project-title">Modelagem com GLMs – Análise Estatística</div>
-        <div class="project-desc">Modelos de Poisson e Binomial Negativa aplicados a dados de contagem com excesso de zeros, em R.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Relatório</a></div>
-    </div>
+        <div class="projects-grid">
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-graduation-cap"></i>
+                        TCC - Ensino Médio na ETEC
+                    </div>
+                    <div class="project-institution">Curso Técnico em Administração</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Projeto de conclusão do curso técnico em Administração. O trabalho explorou o papel das teorias administrativas na construção de empresas social e ambientalmente responsáveis.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fas fa-video"></i> Pitch de Apresentação
+                        </a>
+                    </div>
+                </div>
+            </div>
 
-    <div class="project-card">
-        <div class="project-title">Projeto de Álgebra Linear com Imagens</div>
-        <div class="project-desc">Transformações matemáticas aplicadas a imagens com base em conceitos de Álgebra Linear e Visão Computacional.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 🌐 <a href="#">Site</a></div>
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-chart-line"></i>
+                        Field Project – FGV EMAp
+                    </div>
+                    <div class="project-institution">Projeto Aplicado de Ciência de Dados</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Projeto aplicado em parceria com a empresa Rocket.Chat. O objetivo foi identificar padrões de comportamento entre usuários de um tipo específico de plano da plataforma.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fas fa-file-alt"></i> Relatório do Projeto
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-book-open"></i>
+                        Storytelling com Processos Gaussianos
+                    </div>
+                    <div class="project-institution">Visualização Interativa</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Visualização interativa em JavaScript com D3.js para introduzir Processos Gaussianos, combinando machine learning e storytelling de forma acessível.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fas fa-globe"></i> Site do Projeto
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
 <div class="projects">
-    <div class="project-card">
-        <div class="project-title">Visualização Sociopolítica com Bokeh</div>
-        <div class="project-desc">Visualizações interativas com Bokeh e Python para dados sociopolíticos.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 🌐 <a href="#">Site</a></div>
-    </div>
 
-    <div class="project-card">
-        <div class="project-title">Projeto A2 – Desenvolvimento de Jogo com Pygame</div>
-        <div class="project-desc">Jogo desenvolvido com Pygame em Python, focando em Programação Orientada a Objetos.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a></div>
-    </div>
+    <div class="projects-container">
 
-    <div class="project-card">
-        <div class="project-title">Projeto GPS – Algoritmos em Grafos (PAA)</div>
-        <div class="project-desc">Sistema de rotas com algoritmos de grafos em C++, com foco em otimização e complexidade computacional.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Documentação</a></div>
+        <div class="projects-grid">
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-clock"></i>
+                        Linha do Tempo Filosófica
+                    </div>
+                    <div class="project-institution">Visualização com D3.js e Svelte</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Timeline interativa representando correntes filosóficas, usando D3.js e Svelte.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fas fa-globe"></i> Site
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-chart-bar"></i>
+                        Modelagem com GLMs – Análise Estatística
+                    </div>
+                    <div class="project-institution">Trabalho com dados de contagem em R</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Modelos de Poisson e Binomial Negativa aplicados a dados de contagem com excesso de zeros, em R.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-file-alt"></i> Relatório
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-image"></i>
+                        Projeto de Álgebra Linear com Imagens
+                    </div>
+                    <div class="project-institution">Matemática e Visão Computacional</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Transformações matemáticas aplicadas a imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-globe"></i> Site
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
 <div class="projects">
-    <div class="project-card">
-        <div class="project-title">Projeto de Threads – Pipeline Paralelo de Dados</div>
-        <div class="project-desc">Simulação de um banco de dados com pipeline paralela em C++ e Python para tratamento de dados.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 📄 <a href="#">Documentação</a></div>
-    </div>
+    <div class="projects-container">
 
-    <div class="project-card">
-        <div class="project-title">Marvel vs DC – Visualização Criativa de Dados</div>
-        <div class="project-desc">Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.</div>
-        <div class="project-link">🔗 <a href="#">GitHub</a> 🎨 <a href="#">Peça gráfica</a></div>
+        <div class="projects-grid">
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-chart-area"></i>
+                        Visualização Sociopolítica com Bokeh
+                    </div>
+                    <div class="project-institution">Visual Analytics com Python</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Visualizações interativas com Bokeh e Python para dados sociopolíticos.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-globe"></i> Site
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-gamepad"></i>
+                        Desenvolvimento de Jogo com Pygame
+                    </div>
+                    <div class="project-institution">Programação Orientada a Objetos</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Jogo desenvolvido com Pygame em Python, focando em Programação Orientada a Objetos.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-map-signs"></i>
+                        Projeto GPS – Algoritmos em Grafos (PAA)
+                    </div>
+                    <div class="project-institution">Estruturas e Otimização em C++</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Sistema de rotas com algoritmos de grafos em C++, com foco em otimização e complexidade computacional. 
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-file-alt"></i> Documentação
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
 </div>
 
+<div class="projects">    
+    <div class="projects-container">
+
+        <div class="projects-grid">
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-code-branch"></i>
+                        Projeto de Threads – Pipeline Paralelo de Dados
+                    </div>
+                    <div class="project-institution">C++ e Python Multithreading</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Simulação de um banco de dados com pipeline paralela em C++ e Python para tratamento de dados.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-file-alt"></i> Documentação
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <span class="category-label">Acadêmico</span>
+                <div class="card-header">
+                    <div class="project-title">
+                        <i class="fas fa-palette"></i>
+                        Marvel vs DC – Visualização Criativa de Dados
+                    </div>
+                    <div class="project-institution">Design de Dados com R e Canva</div>
+                </div>
+                <div class="project-content">
+                    <div class="project-desc">
+                        Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-paint-brush"></i> Peça gráfica
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
