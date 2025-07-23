@@ -43,12 +43,12 @@
             </a>
             <div class="social-images">
                 <!-- Linkedin -->
-                <a href="https://github.com/KaikyBraga" target="_blank">
+                <a href="https://www.linkedin.com/in/kaiky-braga-8a84962aa/" target="_blank">
                     <img src="linkedin.png" alt="linkedin">
                 </a>
 
                 <!-- GitHub -->
-                <a href="https://www.linkedin.com/in/kaiky-braga-8a84962aa/" target="_blank">
+                <a href="https://github.com/KaikyBraga" target="_blank">
                     <img src="github.png" alt="github">
                 </a>
             </div>
