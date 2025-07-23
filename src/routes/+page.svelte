@@ -82,7 +82,7 @@
                         <div class="study-icon"><img src="math.png" alt="math"></div>
                         <h2 class="study-title">MATEMÁTICA</h2>
                     </div>
-                    <div class="study-text">Tive a oportunidade de aprofundar conhecimentos em diversas e fundamentais áreas da matemática. Isso incluiu a realização de trabalhos envolvendo Modelos Lineares Generalizados na área de Estatística, a aplicação prática de Álgebra Linear em problemas reais, além do uso integrado de conceitos de probabilidade e estatística, tanto na abordagem Bayesiana quanto na Frequentista, para a resolução de desafios complexos e desenvolvimento de modelos matemáticos robustos.</div>
+                    <div class="study-text">Tive a oportunidade de aprofundar conhecimentos em diversas e fundamentais áreas da matemática. Isso incluiu a realização de trabalhos envolvendo Modelos Lineares Generalizados na área de Estatística, a aplicação prática de Álgebra Linear em aplicações com imagens, além do uso integrado de conceitos de probabilidade e estatística, tanto na abordagem Bayesiana quanto na Frequentista, para a resolução de desafios complexos e desenvolvimento de modelos matemáticos robustos.</div>
                 </div>
             </div>
 
@@ -92,7 +92,7 @@
                         <div class="study-icon"><img src="analysis.png" alt="analysis"></div>
                         <h2 class="study-title">ANÁLISES EXPLORATÓRIAS</h2>
                     </div>
-                    <div class="study-text">Análise e limpeza de dados, bem como a geração de insights por meio de técnicas estatísticas, são pilares centrais do meu conjunto de habilidades. Além disso, tenho me dedicado a transformar dados complexos em narrativas visuais claras e acessíveis por meio de visualizações eficazes, com o objetivo de facilitar a compreensão para públicos diversos, independentemente do nível técnico.</div>
+                    <div class="study-text">Análise e limpeza de dados, bem como a geração de insights por meio de técnicas estatísticas, são pontos centrais do meu conjunto de habilidades. Além disso, tenho me dedicado a transformar dados complexos em narrativas visuais claras e acessíveis por meio de visualizações eficazes, com o objetivo de facilitar a compreensão para públicos diversos, independentemente do nível técnico.</div>
                 </div>
                 <div class="studies-col" id="studies-col4">
                     <div class="study-heading">
@@ -261,7 +261,7 @@
             </div>
 
             <div class="project-card">
-                <span class="category-label">Acadêmico</span>
+                <span class="category-label">Pessoal</span>
                 <div class="card-header">
                     <div class="project-title">
                         <i class="fas fa-palette"></i>
@@ -327,7 +327,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Timeline interativa representando correntes filosóficas, usando D3.js e Svelte.
+                        Timeline interativa representando correntes filosóficas, usando D3.js e padrão de projeto Svelte.
                     </div>
                     <div class="project-links">
                         <a href="https://larissalafonso.github.io/history-of-philosophy/" class="project-link">
@@ -351,7 +351,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Modelos de Poisson e Binomial Negativa aplicados a dados de contagem com excesso de zeros, em R.
+                        Modelos de Poisson e Binomial Negativa aplicados a dados da base "Recreation Demand" explorando o problema de excesso de zeros.
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
@@ -375,7 +375,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Transformações matemáticas aplicadas a imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
+                        Transformações matemáticas aplicadas a filtros em imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
                     </div>
                     <div class="project-links">
                         <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link">
@@ -430,7 +430,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Jogo desenvolvido com Pygame em Python, focando em Programação Orientada a Objetos.
+                        Jogo desenvolvido com Pygame em Python, focando no estudo em Programação Orientada a Objetos.
                     </div>
                     <div class="project-links">
                         <a href="https://github.com/KaikyBraga/Trabalho_A2_LP" class="project-link">
@@ -483,7 +483,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Simulação de um banco de dados com pipeline paralela em C++ e Python para tratamento de dados.
+                        Simulação de um Banco com pipeline de dados paralela em C++ e Python para tratamento e processamento de dados.
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
