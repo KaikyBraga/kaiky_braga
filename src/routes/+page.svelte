@@ -32,7 +32,7 @@
         <div class="text-presentation">
             <h1>Olá, eu sou Kaiky Braga!</h1>
             <hr>
-            <p><b>Um graduando em Ciência de Dados e Inteligência Artificial pela Fundação Getulio Vargas (FGV)</b>, com grande interesse em aprendizado de máquina, estatística (frequentista e bayesiana) e análise de dados. Estou constantemente em busca de novos aprendizados e desafios que ampliem meu conhecimento técnico e prático.</p>
+            <p><b>Um graduando em Ciência de Dados e Inteligência Artificial pela Fundação Getulio Vargas (FGV)</b>, com grande interesse em Machine Learning, estatística (frequentista e bayesiana) e análise de dados. Estou constantemente em busca de novos aprendizados e desafios que ampliem meu conhecimento técnico e prático.</p>
         </div>
 
         <div class="social-project-link">
@@ -250,8 +250,11 @@
                         Projeto de conclusão do curso técnico em Administração. O trabalho explorou o papel das teorias administrativas na construção de empresas social e ambientalmente responsáveis.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://www.youtube.com/watch?v=iuaiE0GV9jU" class="project-link">
                             <i class="fas fa-video"></i> Pitch de Apresentação
+                        </a>
+                        <a href="#" class="project-link">
+                            <i class="fas fa-file-alt"></i> TCC
                         </a>
                     </div>
                 </div>
@@ -261,18 +264,21 @@
                 <span class="category-label">Acadêmico</span>
                 <div class="card-header">
                     <div class="project-title">
-                        <i class="fas fa-chart-line"></i>
-                        Field Project – FGV EMAp
+                        <i class="fas fa-palette"></i>
+                        Marvel vs DC – Peça Gráfica
                     </div>
-                    <div class="project-institution">Projeto Aplicado de Ciência de Dados</div>
+                    <div class="project-institution">Design de Dados com R e Canva</div>
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Projeto aplicado em parceria com a empresa Rocket.Chat. O objetivo foi identificar padrões de comportamento entre usuários de um tipo específico de plano da plataforma.
+                        Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
-                            <i class="fas fa-file-alt"></i> Relatório do Projeto
+                            <i class="fas fa-paint-brush"></i> Peça gráfica
+                        </a>
+                        <a href="https://github.com/KaikyBraga/DC-Comics-vs-Marvel" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -292,10 +298,10 @@
                         Visualização interativa em JavaScript com D3.js para introduzir Processos Gaussianos, combinando machine learning e storytelling de forma acessível.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
-                            <i class="fas fa-globe"></i> Site do Projeto
+                        <a href="https://fgv-vis-2025.github.io/tarefa-4-gaussian-processes/" class="project-link">
+                            <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="#" class="project-link">
+                        <a href="https://github.com/LarissaLAfonso/gaussian-processes" class="project-link">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -324,10 +330,10 @@
                         Timeline interativa representando correntes filosóficas, usando D3.js e Svelte.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://larissalafonso.github.io/history-of-philosophy/" class="project-link">
                             <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="#" class="project-link">
+                        <a href="https://github.com/LarissaLAfonso/history-of-philosophy" class="project-link">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -349,10 +355,10 @@
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
-                        </a>
-                        <a href="#" class="project-link">
                             <i class="fas fa-file-alt"></i> Relatório
+                        </a>
+                        <a href="https://github.com/KaikyBraga/count_glm" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -372,11 +378,11 @@
                         Transformações matemáticas aplicadas a imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
-                        </a>
-                        <a href="#" class="project-link">
+                        <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link">
                             <i class="fas fa-globe"></i> Site
+                        </a>
+                        <a href="https://github.com/samullima/Trabalho_AL" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -403,11 +409,11 @@
                         Visualizações interativas com Bokeh e Python para dados sociopolíticos.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
-                        </a>
-                        <a href="#" class="project-link">
+                        <a href="https://trabalho-icd.netlify.app/" class="project-link">
                             <i class="fas fa-globe"></i> Site
+                        </a>
+                        <a href="https://github.com/LuuSamp/Trabalho_ICD" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -427,7 +433,7 @@
                         Jogo desenvolvido com Pygame em Python, focando em Programação Orientada a Objetos.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://github.com/KaikyBraga/Trabalho_A2_LP" class="project-link">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -449,10 +455,10 @@
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
+                            <i class="fas fa-file-alt"></i> Documentação
                         </a>
                         <a href="#" class="project-link">
-                            <i class="fas fa-file-alt"></i> Documentação
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -481,10 +487,10 @@
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
-                        </a>
-                        <a href="#" class="project-link">
                             <i class="fas fa-file-alt"></i> Documentação
+                        </a>
+                        <a href="https://github.com/AlessandraBello/Comp\_escalavel\_a1" class="project-link">
+                            <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
                 </div>
@@ -494,27 +500,17 @@
                 <span class="category-label">Acadêmico</span>
                 <div class="card-header">
                     <div class="project-title">
-                        <i class="fas fa-palette"></i>
-                        Marvel vs DC – Visualização Criativa de Dados
+                        <i class="fas fa-chart-line"></i>
+                        Field Project – FGV EMAp
                     </div>
-                    <div class="project-institution">Design de Dados com R e Canva</div>
+                    <div class="project-institution">Projeto Aplicado de Ciência de Dados</div>
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.
-                    </div>
-                    <div class="project-links">
-                        <a href="#" class="project-link">
-                            <i class="fab fa-github"></i> Repositório
-                        </a>
-                        <a href="#" class="project-link">
-                            <i class="fas fa-paint-brush"></i> Peça gráfica
-                        </a>
+                        Projeto aplicado em parceria com a empresa Rocket.Chat. O objetivo foi identificar padrões de comportamento entre usuários de um tipo específico de plano da plataforma.
                     </div>
                 </div>
             </div>
-
-
         </div>
     </div>
 </div>
