@@ -17,6 +17,7 @@
 }
 
 .languages-text p {
+    font-family: 'Inter', sans-serif;
     font-size: 1.1rem;
     color: #c5c5c5;
     text-align: center;
