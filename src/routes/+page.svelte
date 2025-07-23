@@ -208,7 +208,7 @@
 
                 <div class="courses-item">
                     <div class="couses-img"><img src="./courses/obmep.png" alt=""></div>
-                    <p><b>EHH RN:</b> Participação no Encontro do Hotel de Hilbert, edição nacional para os destaques da OBMEP (2023).</p>
+                    <p><b>EHH RN:</b> Participação no Encontro do Hotel de Hilbert, evento nacional para os destaques da OBMEP (2023).</p>
                 </div>
 
                 <div class="courses-item">
