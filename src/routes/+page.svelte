@@ -253,7 +253,7 @@
                         <a href="https://www.youtube.com/watch?v=iuaiE0GV9jU" class="project-link">
                             <i class="fas fa-video"></i> Pitch de Apresentação
                         </a>
-                        <a href="#" class="project-link">
+                        <a href="https://drive.google.com/file/d/1bEPpbGGjmAVH6gLU0nu0sjF-O7_4WOy-/view?usp=sharing" class="project-link">
                             <i class="fas fa-file-alt"></i> TCC
                         </a>
                     </div>
@@ -274,7 +274,7 @@
                         Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://drive.google.com/file/d/1V7ACPGSPLtsNpdY4KaGMgTXPQQfp5XHX/view?usp=sharing" class="project-link">
                             <i class="fas fa-paint-brush"></i> Peça gráfica
                         </a>
                         <a href="https://github.com/KaikyBraga/DC-Comics-vs-Marvel" class="project-link">
@@ -354,7 +354,7 @@
                         Modelos de Poisson e Binomial Negativa aplicados a dados da base "Recreation Demand" explorando o problema de excesso de zeros.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://drive.google.com/file/d/1zp-K8iDPlz9EV-vQSTK9EcKOmyyZMeD1/view?usp=sharing" class="project-link">
                             <i class="fas fa-file-alt"></i> Relatório
                         </a>
                         <a href="https://github.com/KaikyBraga/count_glm" class="project-link">
@@ -454,7 +454,7 @@
                         Sistema de rotas com algoritmos de grafos em C++, com foco em otimização e complexidade computacional. 
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://drive.google.com/file/d/1ieMD0PZBRGTFdCpLfPoo_7f_M8AVRK-2/view?usp=sharing" class="project-link">
                             <i class="fas fa-file-alt"></i> Documentação
                         </a>
                         <a href="#" class="project-link">
@@ -486,7 +486,7 @@
                         Simulação de um Banco com pipeline de dados paralela em C++ e Python para tratamento e processamento de dados.
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link">
+                        <a href="https://drive.google.com/file/d/1pefYwblinbR3NMHr0Tnb6OTeAM-dm8hI/view?usp=sharing" class="project-link">
                             <i class="fas fa-file-alt"></i> Documentação
                         </a>
                         <a href="https://github.com/AlessandraBello/Comp\_escalavel\_a1" class="project-link">
