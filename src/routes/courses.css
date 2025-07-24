@@ -5,7 +5,7 @@ body {
 }
 
 .courses {
-    background-image: url('background_studies.jpg');
+    background-image: url('/kaiky_braga/background_studies.jpg');
     background-size: cover;       
     background-position: center;   
     background-repeat: no-repeat;   
