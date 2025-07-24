@@ -1,13 +1,8 @@
-import adapter from '@sveltejs/adapter-static';
+// vite.config.js
+import { defineConfig } from 'vite';
+import { svelte } from '@sveltejs/vite-plugin-svelte';
 
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
-	kit: {
-		adapter: adapter({ fallback: '404.html' }),
-		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-		},
-	},
-};
-
-export default config;
+export default defineConfig({
+  base: '/kaiky_braga/', 
+  plugins: [svelte()],
+});
