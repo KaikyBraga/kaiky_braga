@@ -333,6 +333,9 @@
                         <a href="https://larissalafonso.github.io/history-of-philosophy/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
                         </a>
+                        <a href="https://drive.google.com/file/d/1jA-Ew9kxpaGVnYLgbziEUv9N4-AVCVZW/view?usp=sharing" class="project-link" target="_blank">
+                            <i class="fas fa-file-alt"></i> Relatório
+                        </a>
                         <a href="https://github.com/LarissaLAfonso/history-of-philosophy" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
@@ -380,6 +383,9 @@
                     <div class="project-links">
                         <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
+                        </a>
+                        <a href="https://drive.google.com/file/d/1cLlMNyw4nsrEt0u9SjT9aDDpDta9YToV/view?usp=sharing" class="project-link" target="_blank">
+                            <i class="fas fa-file-alt"></i> Relatório
                         </a>
                         <a href="https://github.com/samullima/Trabalho_AL" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
