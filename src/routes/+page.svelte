@@ -250,10 +250,10 @@
                         Projeto de conclusão do curso técnico em Administração. O trabalho explorou o papel das teorias administrativas na construção de empresas social e ambientalmente responsáveis.
                     </div>
                     <div class="project-links">
-                        <a href="https://www.youtube.com/watch?v=iuaiE0GV9jU" class="project-link">
+                        <a href="https://www.youtube.com/watch?v=iuaiE0GV9jU" class="project-link" target="_blank">
                             <i class="fas fa-video"></i> Pitch de Apresentação
                         </a>
-                        <a href="https://drive.google.com/file/d/1bEPpbGGjmAVH6gLU0nu0sjF-O7_4WOy-/view?usp=sharing" class="project-link">
+                        <a href="https://drive.google.com/file/d/1bEPpbGGjmAVH6gLU0nu0sjF-O7_4WOy-/view?usp=sharing" class="project-link" target="_blank">
                             <i class="fas fa-file-alt"></i> TCC
                         </a>
                     </div>
@@ -274,10 +274,10 @@
                         Peça gráfica usando R e Canva para representar uma batalha fictícia entre personagens das editoras.
                     </div>
                     <div class="project-links">
-                        <a href="https://drive.google.com/file/d/1V7ACPGSPLtsNpdY4KaGMgTXPQQfp5XHX/view?usp=sharing" class="project-link">
+                        <a href="https://drive.google.com/file/d/1V7ACPGSPLtsNpdY4KaGMgTXPQQfp5XHX/view?usp=sharing" class="project-link" target="_blank">
                             <i class="fas fa-paint-brush"></i> Peça gráfica
                         </a>
-                        <a href="https://github.com/KaikyBraga/DC-Comics-vs-Marvel" class="project-link">
+                        <a href="https://github.com/KaikyBraga/DC-Comics-vs-Marvel" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -298,10 +298,10 @@
                         Visualização interativa em JavaScript com D3.js para introduzir Processos Gaussianos, combinando machine learning e storytelling de forma acessível.
                     </div>
                     <div class="project-links">
-                        <a href="https://fgv-vis-2025.github.io/tarefa-4-gaussian-processes/" class="project-link">
+                        <a href="https://fgv-vis-2025.github.io/tarefa-4-gaussian-processes/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="https://github.com/LarissaLAfonso/gaussian-processes" class="project-link">
+                        <a href="https://github.com/LarissaLAfonso/gaussian-processes" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -330,10 +330,10 @@
                         Timeline interativa representando correntes filosóficas, usando D3.js e padrão de projeto Svelte.
                     </div>
                     <div class="project-links">
-                        <a href="https://larissalafonso.github.io/history-of-philosophy/" class="project-link">
+                        <a href="https://larissalafonso.github.io/history-of-philosophy/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="https://github.com/LarissaLAfonso/history-of-philosophy" class="project-link">
+                        <a href="https://github.com/LarissaLAfonso/history-of-philosophy" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -354,10 +354,10 @@
                         Modelos de Poisson e Binomial Negativa aplicados a dados da base "Recreation Demand" explorando o problema de excesso de zeros.
                     </div>
                     <div class="project-links">
-                        <a href="https://drive.google.com/file/d/1zp-K8iDPlz9EV-vQSTK9EcKOmyyZMeD1/view?usp=sharing" class="project-link">
+                        <a href="https://drive.google.com/file/d/1zp-K8iDPlz9EV-vQSTK9EcKOmyyZMeD1/view?usp=sharing" class="project-link" target="_blank">
                             <i class="fas fa-file-alt"></i> Relatório
                         </a>
-                        <a href="https://github.com/KaikyBraga/count_glm" class="project-link">
+                        <a href="https://github.com/KaikyBraga/count_glm" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -378,10 +378,10 @@
                         Transformações matemáticas aplicadas a filtros em imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
                     </div>
                     <div class="project-links">
-                        <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link">
+                        <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="https://github.com/samullima/Trabalho_AL" class="project-link">
+                        <a href="https://github.com/samullima/Trabalho_AL" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -409,10 +409,10 @@
                         Visualizações interativas com Bokeh e Python para dados sociopolíticos.
                     </div>
                     <div class="project-links">
-                        <a href="https://trabalho-icd.netlify.app/" class="project-link">
+                        <a href="https://trabalho-icd.netlify.app/" class="project-link" target="_blank">
                             <i class="fas fa-globe"></i> Site
                         </a>
-                        <a href="https://github.com/LuuSamp/Trabalho_ICD" class="project-link">
+                        <a href="https://github.com/LuuSamp/Trabalho_ICD" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -433,7 +433,7 @@
                         Jogo desenvolvido com Pygame em Python, focando no estudo em Programação Orientada a Objetos.
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/KaikyBraga/Trabalho_A2_LP" class="project-link">
+                        <a href="https://github.com/KaikyBraga/Trabalho_A2_LP" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -454,10 +454,10 @@
                         Sistema de rotas com algoritmos de grafos em C++, com foco em otimização e complexidade computacional. 
                     </div>
                     <div class="project-links">
-                        <a href="https://drive.google.com/file/d/1ieMD0PZBRGTFdCpLfPoo_7f_M8AVRK-2/view?usp=sharing" class="project-link">
+                        <a href="https://drive.google.com/file/d/1ieMD0PZBRGTFdCpLfPoo_7f_M8AVRK-2/view?usp=sharing" class="project-link" target="_blank">
                             <i class="fas fa-file-alt"></i> Documentação
                         </a>
-                        <a href="#" class="project-link">
+                        <a href="#" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
@@ -486,10 +486,10 @@
                         Simulação de um Banco com pipeline de dados paralela em C++ e Python para tratamento e processamento de dados.
                     </div>
                     <div class="project-links">
-                        <a href="https://drive.google.com/file/d/1pefYwblinbR3NMHr0Tnb6OTeAM-dm8hI/view?usp=sharing" class="project-link">
+                        <a href="https://drive.google.com/file/d/1pefYwblinbR3NMHr0Tnb6OTeAM-dm8hI/view?usp=sharing" class="project-link" target="_blank">
                             <i class="fas fa-file-alt"></i> Documentação
                         </a>
-                        <a href="https://github.com/AlessandraBello/Comp\_escalavel\_a1" class="project-link">
+                        <a href="https://github.com/AlessandraBello/Comp\_escalavel\_a1" class="project-link" target="_blank">
                             <i class="fab fa-github"></i> Repositório
                         </a>
                     </div>
