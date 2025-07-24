@@ -378,7 +378,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-desc">
-                        Transformações matemáticas aplicadas a filtros em imagens com base em conceitos de Álgebra Linear e Visão Computacional. 
+                        Transformações matemáticas aplicadas a filtros em imagens com base em conceitos de Álgebra Linear e Visão Computacional. Foram utlizados as blibliotecas: Numpy para transformação de Imagens e Streamlit como framework de apoio.
                     </div>
                     <div class="project-links">
                         <a href="https://visualmatrix-oficial.streamlit.app/" class="project-link" target="_blank">
