@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@400&display=swap');
 
 .initial-page {
-    background-image: url('background.jpeg');
+    background-image: url('/kaiky_braga/background.jpeg');
     background-size: cover;       
     background-position: center;   
     background-repeat: no-repeat;   
