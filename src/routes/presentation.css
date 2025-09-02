@@ -71,10 +71,6 @@
     vertical-align: middle; 
 }
 
-.social-images img:hover {
-    width: 9%;  
-}
-
 .email-link:hover {
     color: #1a2a6c;
     text-decoration: underline;
