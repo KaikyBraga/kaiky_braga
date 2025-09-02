@@ -43,7 +43,7 @@
             </a>
             <div class="social-images">
                 <!-- Linkedin -->
-                <a href="https://www.linkedin.com/in/kaiky-braga-8a84962aa/" target="_blank">
+                <a href="https://www.linkedin.com/in/kaiky-braga" target="_blank">
                     <img src="linkedin.png" alt="linkedin">
                 </a>
 
@@ -64,7 +64,7 @@
 </div>
 
 <!-- What I am studying now -->
-<div class="studies">    
+<!-- <div class="studies">    
     <div class="studies-wrapper">
         <h1 class="study-title-principal">CAMPOS DE INTERESSE</h1>
 
@@ -104,7 +104,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <!-- Programming Languages -->
