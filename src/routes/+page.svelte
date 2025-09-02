@@ -110,7 +110,7 @@
 <!-- Programming Languages -->
 <div class="languages">
     <div class="languages-title"><h1>EXPERIÊNCIA</h1></div>
-    <div class="languages-text"><p>Eu tenho me desenvolvendo na área de Data Science desde 2023, e aqui estão presentes algumas ferramentes que pude ter contato durante meu desenvolvimento profissional.</p></div>
+    <div class="languages-text"><p>Eu tenho me desenvolvido na área de Data Science desde 2023, e aqui estão presentes algumas ferramentes que pude ter contato durante meu desenvolvimento profissional.</p></div>
     <div class="languages-imgs">
         <div class="languages-line">
             <img src="./languages/python.png" alt="">
